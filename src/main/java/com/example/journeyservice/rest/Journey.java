@@ -14,13 +14,13 @@ public class Journey {
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    //@NotNull
+    @NotNull
     private String startLocation;
 
-    //@NotNull
+    @NotNull
     private String finishLocation;
 
-   // @NotNull
+    @NotNull
     private LocalDate date;
 
     private String name;
