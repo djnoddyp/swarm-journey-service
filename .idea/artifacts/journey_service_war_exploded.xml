@@ -81,6 +81,7 @@
           <element id="library" level="project" name="Maven: javax.enterprise:cdi-api:1.2" />
           <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
           <element id="library" level="project" name="Maven: com.h2database:h2:1.4.187" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:6.0.6" />
         </element>
       </element>
       <element id="directory" name="META-INF">

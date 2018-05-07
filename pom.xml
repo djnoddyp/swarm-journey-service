@@ -86,6 +86,7 @@
       <artifactId>cdi</artifactId>
     </dependency>
 
+
     <!--<dependency>-->
       <!--<groupId>org.jboss.spec.javax.ws.rs</groupId>-->
       <!--<artifactId>jboss-jaxrs-api_2.0_spec</artifactId>-->
@@ -111,6 +112,11 @@
       <groupId>com.h2database</groupId>
       <artifactId>h2</artifactId>
       <version>1.4.187</version>
+    </dependency>
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>6.0.6</version>
     </dependency>
 
   </dependencies>
